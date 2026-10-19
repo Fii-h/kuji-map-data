@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:25:33.350Z",
+  "updatedAt": "2026-10-19T12:00:25.955Z",
   "holidays": [
     "2008-01-01",
     "2008-01-14",
@@ -372,6 +372,7 @@
       "thumbnailLabel": "",
       "officialUrl": "https://1kuji.com/products/5",
       "workTitle": "カピバラさん",
+      "registeredAt": "2026-10-19",
       "prizes": [
         {
           "prizeName": "A賞",
@@ -539,6 +540,7 @@
       "thumbnailLabel": "",
       "officialUrl": "https://1kuji.com/products/8",
       "workTitle": "リラックマ",
+      "registeredAt": "2026-10-16",
       "prizes": [
         {
           "prizeName": "A賞",
@@ -651,6 +653,7 @@
       "thumbnailLabel": "",
       "officialUrl": "https://1kuji.com/products/6",
       "workTitle": "ドラえもん",
+      "registeredAt": "2026-10-10",
       "prizes": [
         {
           "prizeName": "A賞",
@@ -799,7 +802,7 @@
           "prizeName": "ダブルチャンスキャンペーン",
           "sortOrder": 901,
           "branchNo": 1,
-          "productName": "ゴールドVerと.シルバーVer.のビッグソフビバンク賞",
+          "productName": "ゴールドVer.とシルバーVer.のビッグソフビバンク賞",
           "subTitle": "",
           "imageUrl": "",
           "productLink": "",
@@ -818,6 +821,7 @@
       "thumbnailLabel": "",
       "officialUrl": "https://1kuji.com/products/4",
       "workTitle": "ウルトラマン",
+      "registeredAt": "2026-10-05",
       "prizes": [
         {
           "prizeName": "A賞",
@@ -941,6 +945,7 @@
       "thumbnailLabel": "",
       "officialUrl": "https://1kuji.com/products/10",
       "workTitle": "ドラゴンボール",
+      "registeredAt": "2026-10-01",
       "prizes": [
         {
           "prizeName": "A賞",
