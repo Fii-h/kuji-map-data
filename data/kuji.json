@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:25:08.648Z",
+  "updatedAt": "2026-10-25T19:58:47.834Z",
   "holidays": [
     "2008-01-01",
     "2008-01-14",
@@ -363,6 +363,1584 @@
   ],
   "kuji": [
     {
+      "id": "RKM_2008-08-02",
+      "mainTitle": "リラックマ5th",
+      "subTitle": "",
+      "startDate": "2008-08-02",
+      "endDate": "2008-09-02",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/62",
+      "workTitle": "リラックマ",
+      "registeredAt": "2026-10-26",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "リラックマぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約50cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "コリラックマぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約30cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "キイロイトリぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約18cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "ヘアアクセサリー付きバッグ：リラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約24cm×21cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 2,
+          "productName": "ヘアアクセサリー付きバッグ：コリラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約24cm×21cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "フィギュアトレイ：リラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約5.5cm×9cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "フィギュアトレイ：コリラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約5.5cm×9cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "クリーナーマスコット：リラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "マスコット：約5.5cm、パーツ：約3cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "クリーナーマスコット：コリラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "マスコット：約5.5cm、パーツ：約3cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "クリーナーマスコット：キイロイトリ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "マスコット：約5.5cm、パーツ：約3cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "記念グラス：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約16cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "記念グラス：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約16cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 3,
+          "productName": "記念グラス：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約16cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 4,
+          "productName": "記念グラス：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約16cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "5周年記念ぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": ""
+        }
+      ]
+    },
+    {
+      "id": "G3-ONI_2008-07-26",
+      "mainTitle": "ゲゲゲの鬼太郎２",
+      "subTitle": "",
+      "startDate": "2008-07-26",
+      "endDate": "2008-08-26",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/55",
+      "workTitle": "ゲゲゲの鬼太郎",
+      "registeredAt": "2026-10-26",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "目玉おやじフィギュア",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約20cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "ぬりかべクッション",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約40cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "きゅうす&茶碗セット",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "茶碗：約6cm、急須：約7.5cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "てぬぐい&巾着：鬼太郎",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "てぬぐい：約90cm、巾着：約13cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 2,
+          "productName": "てぬぐい&巾着：いったんもめん",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "てぬぐい：約90cm、巾着：約13cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "クリーナーマスコット：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "クリーナーマスコット：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 3,
+          "productName": "クリーナーマスコット：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 4,
+          "productName": "クリーナーマスコット：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "ビッグクリップ&メモ帳：鬼太郎",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "クリップ：約11cm～12cm、メモ帳：約12cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "ビッグクリップ&メモ帳：ねずみ男",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "クリップ：約11cm～12cm、メモ帳：約12cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "ビッグクリップ&メモ帳：ぬらりひょん",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "クリップ：約11cm～12cm、メモ帳：約12cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 4,
+          "productName": "ビッグクリップ&メモ帳：朱の盆",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "クリップ：約11cm～12cm、メモ帳：約12cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "ゆらゆらグラス：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "ゆらゆらグラス：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 3,
+          "productName": "ゆらゆらグラス：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 4,
+          "productName": "ゆらゆらグラス：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "目玉おやじフィギュア限定バージョン",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約20cm"
+        }
+      ]
+    },
+    {
+      "id": "KBSN_2008-07-19",
+      "mainTitle": "カピバラさん",
+      "subTitle": "～のんびり生活～",
+      "startDate": "2008-07-19",
+      "endDate": "2008-08-19",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/60",
+      "workTitle": "カピバラさん",
+      "registeredAt": "2026-10-26",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "カピバラさんぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約48cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "のすのすクッション",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約48cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "ぬいぐるみカレンダー",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約19cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "フェイス型カップ：カピバラさん",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約10.5cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 2,
+          "productName": "フェイス型カップ：ホワイトさん",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約10.5cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "スプーン＆ひとくち小皿セット：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "小皿：約8cm、スプーン：約11cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "スプーン＆ひとくち小皿セット：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "小皿：約8cm、スプーン：約11cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "ぬいぐるみポーチ：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "ぬいぐるみポーチ：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "ぬいぐるみポーチ：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 4,
+          "productName": "ぬいぐるみポーチ：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "ゆび人形マスコット：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "ゆび人形マスコット：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 3,
+          "productName": "ゆび人形マスコット：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 4,
+          "productName": "ゆび人形マスコット：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 5,
+          "productName": "ゆび人形マスコット：⑤",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約10cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "「ホワイトさんぬいぐるみ」 または「動く壁紙か静止画壁紙」",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": ""
+        }
+      ]
+    },
+    {
+      "id": "KBSN_2008-07-12",
+      "mainTitle": "カピバラさん",
+      "subTitle": "",
+      "startDate": "2008-07-12",
+      "endDate": "2008-08-12",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/52",
+      "workTitle": "カピバラさん",
+      "registeredAt": "2026-10-25",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "特大ぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約60cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "ぬいぐるみクッション",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約35cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "ポーチ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約15cm×12cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "クリーナーマスコット：カピバラさん",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約12cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 2,
+          "productName": "クリーナーマスコット：ホワイトさん",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約12cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "タンブラー：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "タンブラー：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "カピバラさんとホワイトさんの35cmぬいぐるみセット",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約30cm×2"
+        }
+      ]
+    },
+    {
+      "id": "DB_2008-06-14",
+      "mainTitle": "ドラゴンボール",
+      "subTitle": "〜摩訶不思議アドベンチャー編〜",
+      "startDate": "2008-06-14",
+      "endDate": "2008-07-14",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/53",
+      "workTitle": "ドラゴンボール",
+      "registeredAt": "2026-10-25",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "亀仙人フィギュア",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約26cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "ブルマフィギュア",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約18cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "四星球クッション",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約30cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "孫悟空ソフビ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約15cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "カリン塔ペン：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約2.5cm～10cm、完成サイズ：約32cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "カリン塔ペン：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約2.5cm～10cm、完成サイズ：約32cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 3,
+          "productName": "カリン塔ペン：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約2.5cm～10cm、完成サイズ：約32cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "天下一メモスタンド：孫悟空",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6.5cm～10.5cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "天下一メモスタンド：クリリン",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6.5cm～10.5cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "天下一メモスタンド：ジャッキー・チュン",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6.5cm～10.5cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 4,
+          "productName": "天下一メモスタンド：実況アナ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6.5cm～10.5cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "ぬいぐるみ：孫悟空",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約11cm～12cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "ぬいぐるみ：ピラフ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約11cm～12cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 3,
+          "productName": "ぬいぐるみ：ウーロン",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約11cm～12cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 4,
+          "productName": "ぬいぐるみ：プーアル",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約11cm～12cm"
+        }
+      ]
+    },
+    {
+      "id": "TV-OPI_2008-05-17",
+      "mainTitle": "テレビアニメ「ワンピース」",
+      "subTitle": "",
+      "startDate": "2008-05-17",
+      "endDate": "2008-06-17",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/49",
+      "workTitle": "ONE PIECE",
+      "registeredAt": "2026-10-25",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "サウザンド・サニー号",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約31.5cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "ルフィフィギュア",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約12cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "フランキーフィギュア",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約14.5cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "チョッパーぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約35cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "ファスナー付きクリアケース：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約34.5cm×24.5cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "ファスナー付きクリアケース：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約34.5cm×24.5cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 3,
+          "productName": "ファスナー付きクリアケース：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約34.5cm×24.5cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "レリーフ名刺ケース：ルフィ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9.5cm×6.8cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "レリーフ名刺ケース：ゾロ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9.5cm×6.8cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "レリーフ名刺ケース：サンジ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9.5cm×6.8cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 4,
+          "productName": "レリーフ名刺ケース：麦わら海賊団",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約9.5cm×6.8cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "チョッパーペン賞：ミニメリー号",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約16cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "チョッパーペン賞：船医",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全2種",
+          "size": "約16cm"
+        },
+        {
+          "prizeName": "H賞",
+          "sortOrder": 8,
+          "branchNo": 1,
+          "productName": "ボールチェーン付きマスコット：ルフィ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約8～10cm"
+        },
+        {
+          "prizeName": "H賞",
+          "sortOrder": 8,
+          "branchNo": 2,
+          "productName": "ボールチェーン付きマスコット：ゾロ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約8～10cm"
+        },
+        {
+          "prizeName": "H賞",
+          "sortOrder": 8,
+          "branchNo": 3,
+          "productName": "ボールチェーン付きマスコット：サンジ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約8～10cm"
+        },
+        {
+          "prizeName": "H賞",
+          "sortOrder": 8,
+          "branchNo": 4,
+          "productName": "ボールチェーン付きマスコット：チョッパー",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約8～10cm"
+        },
+        {
+          "prizeName": "H賞",
+          "sortOrder": 8,
+          "branchNo": 5,
+          "productName": "ボールチェーン付きマスコット：そげキング",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全5種",
+          "size": "約8～10cm"
+        }
+      ]
+    },
+    {
+      "id": "RKM_2008-04-26",
+      "mainTitle": "リラックマ",
+      "subTitle": "～キイロイトリと一緒～",
+      "startDate": "2008-04-26",
+      "endDate": "2008-05-26",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/44",
+      "workTitle": "リラックマ",
+      "registeredAt": "2026-10-24",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "リラックマぬいぐるみクッション",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約60cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "コリラックマぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約35cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "キイロイトリ貯金箱",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約15cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "ぬいぐるみ小物入れ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約10cm（キイロイトリ部分）"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "湯のみ：リラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "湯のみ：コリラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 3,
+          "productName": "湯のみ：キイロイトリ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約9cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "フィギュア付ボールペン：リラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約15cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "フィギュア付ボールペン：コリラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約15cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "フィギュア付ボールペン：キイロイトリ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約15cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "パソコングッズぬいぐるみ：リラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "ハンドレスト約13cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "パソコングッズぬいぐるみ：コリラックマ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "クリーナー約9cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 3,
+          "productName": "パソコングッズぬいぐるみ：キイロイトリ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "コード巻取りぬいぐるみ約8cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "スーパービッグぬいぐるみ：キイロイトリ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約55cm"
+        }
+      ]
+    },
+    {
+      "id": "G3-M_2008-03-29",
+      "mainTitle": "目玉おやじ",
+      "subTitle": "",
+      "startDate": "2008-03-29",
+      "endDate": "2008-04-29",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/39",
+      "workTitle": "ゲゲゲの鬼太郎",
+      "registeredAt": "2026-10-23",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "目玉おやじの目玉型ケース",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": ""
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "◎(秘)(マルヒ)賞◎",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": ""
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "◎フィギュア賞◎：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約4～7.5cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 2,
+          "productName": "◎フィギュア賞◎：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約4～7.5cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 3,
+          "productName": "◎フィギュア賞◎：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全3種",
+          "size": "約4～7.5cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "◎マスコット賞◎：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6、7cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 2,
+          "productName": "◎マスコット賞◎：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6、7cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 3,
+          "productName": "◎マスコット賞◎：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6、7cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 4,
+          "productName": "◎マスコット賞◎：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約6、7cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "いろんな顔の目玉おやじ皿の4枚セット",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": ""
+        }
+      ]
+    },
+    {
+      "id": "GDAM-00_2008-03-22",
+      "mainTitle": "機動戦士ガンダム00",
+      "subTitle": "",
+      "startDate": "2008-03-22",
+      "endDate": "2008-04-22",
+      "thumbnail": "",
+      "thumbnailLabel": "",
+      "officialUrl": "https://1kuji.com/products/38",
+      "workTitle": "機動戦士ガンダム",
+      "registeredAt": "2026-10-22",
+      "prizes": [
+        {
+          "prizeName": "A賞",
+          "sortOrder": 1,
+          "branchNo": 1,
+          "productName": "ヘッドディスプレイ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約21cm"
+        },
+        {
+          "prizeName": "B賞",
+          "sortOrder": 2,
+          "branchNo": 1,
+          "productName": "王　留美フィギュア",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約19cm"
+        },
+        {
+          "prizeName": "C賞",
+          "sortOrder": 3,
+          "branchNo": 1,
+          "productName": "ハロぬいぐるみ",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約29cm"
+        },
+        {
+          "prizeName": "D賞",
+          "sortOrder": 4,
+          "branchNo": 1,
+          "productName": "バスタオル",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": "約120cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 1,
+          "productName": "タンブラー：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 2,
+          "productName": "タンブラー：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 3,
+          "productName": "タンブラー：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "E賞",
+          "sortOrder": 5,
+          "branchNo": 4,
+          "productName": "タンブラー：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約17cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 1,
+          "productName": "ポスター：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約59.4cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 2,
+          "productName": "ポスター：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約59.4cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 3,
+          "productName": "ポスター：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約59.4cm"
+        },
+        {
+          "prizeName": "F賞",
+          "sortOrder": 6,
+          "branchNo": 4,
+          "productName": "ポスター：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約59.4cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 1,
+          "productName": "ネックペン：①",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約25cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 2,
+          "productName": "ネックペン：②",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約25cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 3,
+          "productName": "ネックペン：③",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約25cm"
+        },
+        {
+          "prizeName": "G賞",
+          "sortOrder": 7,
+          "branchNo": 4,
+          "productName": "ネックペン：④",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全4種",
+          "size": "約25cm"
+        },
+        {
+          "prizeName": "ダブルチャンスキャンペーン",
+          "sortOrder": 901,
+          "branchNo": 1,
+          "productName": "一番くじ限定マイスターボックス",
+          "subTitle": "",
+          "imageUrl": "",
+          "productLink": "",
+          "info": "全1種",
+          "size": ""
+        }
+      ]
+    },
+    {
       "id": "KBSN_2008-03-15",
       "mainTitle": "カピバラさん２",
       "subTitle": "",
@@ -601,7 +2179,7 @@
           "prizeName": "D賞",
           "sortOrder": 4,
           "branchNo": 1,
-          "productName": "はし置きセット クローバー形：リラックマ＆コリラックマ＆キイロイトリ",
+          "productName": "はし置きセット クローバー形：①",
           "subTitle": "",
           "imageUrl": "",
           "productLink": "",
@@ -612,7 +2190,7 @@
           "prizeName": "D賞",
           "sortOrder": 4,
           "branchNo": 2,
-          "productName": "はし置きセット 滴形：リラックマ＆コリラックマ",
+          "productName": "はし置きセット 滴形：②",
           "subTitle": "",
           "imageUrl": "",
           "productLink": "",
@@ -623,7 +2201,7 @@
           "prizeName": "D賞",
           "sortOrder": 4,
           "branchNo": 3,
-          "productName": "はし置きセット 滴形：リラックマ＆キイロイトリ",
+          "productName": "はし置きセット 滴形：③",
           "subTitle": "",
           "imageUrl": "",
           "productLink": "",
@@ -1128,6 +2706,15 @@
   ],
   "works": [
     {
+      "name": "ONE PIECE",
+      "kana": "わんぴーす",
+      "aliases": [
+        "ワンピース",
+        "ワンピ",
+        "ONE"
+      ]
+    },
+    {
       "name": "ウルトラマン",
       "kana": "うるとらまん",
       "aliases": [
@@ -1140,6 +2727,14 @@
       "kana": "かぴばらさん",
       "aliases": [
         "Capybara-san"
+      ]
+    },
+    {
+      "name": "ゲゲゲの鬼太郎",
+      "kana": "げげげのきたろう",
+      "aliases": [
+        "鬼太郎",
+        "ゲゲゲ"
       ]
     },
     {
@@ -1163,6 +2758,14 @@
       "kana": "りらっくま",
       "aliases": [
         "Rilakkuma"
+      ]
+    },
+    {
+      "name": "機動戦士ガンダム",
+      "kana": "きどうせんしがんだむ",
+      "aliases": [
+        "ガンダム",
+        "GUNDAM"
       ]
     }
   ],
